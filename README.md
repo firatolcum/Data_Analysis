@@ -4,12 +4,6 @@
 [![View My Portfolio Page](https://img.shields.io/badge/View-My_Portfolio-orange?logo=Port)](https://firatolcum.social/) 
 
 ## 📣 About this Data Analytics Course
-Our Data Analytics Course is designed to teach you how to derive insightful knowledge from raw data to deliver measurable and tangible results to a variety of business stakeholders. This Data Analytics Bootcamp focuses on the practical technical knowledge required to analyze and solve data problems meticulously and quickly.
-
-The Data Analytics Course will teach you the data skills in high-demand by top employers. Learn Python and the statistics you need to be successful. By the end of data analytic training, you will have a portfolio demonstrating your ability to solve complex data problems. After graduating, you will be ready to join a large or small firm or become a freelance data analyst.
-
-You will receive personalized support as you develop the skills needed to be qualified for the highest-paying jobs in the data field. Get prepared for data analytics certifications with us! In addition to career support, we review your profile and portfolio to ensure you’re ready to land a data-driven career. 
-
 This data analytics course is a 13-week program that includes more than **180+ hours** of in-class sessions and a bonus package of **54+ hours** of Career Management Services (CMS). Our specialty CMS activities for the Data Analytics program include sessions on life coaching, resume building, Linkedin training, and interview preparation support. 
 
 In addition to the curriculum, you will have the opportunity to practice what you have learned with **42 hands-on activities + 6 projects + an in-depth capstone project** at the end of the course. We provide the most intensive training in the IT bootcamp market to fully prepare our students for succesful careers!
