@@ -12,15 +12,13 @@ In addition to the curriculum, you will have the opportunity to practice what yo
 
 There are 5 certificates in this Data Analytics Career Path:
 
-
-- [x] [__Data Analysis with Python__]
+### 1. Data Analysis with Python
 
 **Topics Covered:** Numpy, Pandas
 
 This certificate is given to students who successfully completed the Data Analysis with Python Course in the Data Analytics Module after **36 hours** of intensive work. During the course, the student completed **2 assignments and one project**. They completed **50+ hours** of pre-class and post-class activities. During this course, students used many tools and methods such as: LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Gamification, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
 
-
-- [x] [__Data Visualization with Python__]
+### 2. Data Visualization with Python
 
 **Topics Covered:** Matplotlib, Seaborn, Plotly
 
@@ -28,21 +26,20 @@ This certificate is given to students who successfully completed the Data Visual
 
 
 
-- [X] [__Data Analysis with SQL__ ]
+### 3. Data Analysis with SQL
 
 **Topics Covered:** Fundamentals of the Relational Database, Data Definition Language (DDL), Data Manipulation Language (DML), Functions, Joins & View, Advanced Grouping Operations, Set Operators, CASE Expression, Subqueries and CTE's, Window Functions, Indexes, DB Connection with Python, SQL Programming Basics.
 
 This certificate is given to students who successfully completed Data Analysis with SQL Course in the Data Science Bootcamp after **27 hours** live in-class of intensive work. They also successfully completed **many challenging code hands-ons, 2 assignments, and a project**. They completed **50+ hours** of pre-class & post-class activities. During this course, students used many tools and methods such as: LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
 
-
-- [x] [__Statistics Basics__]
+### 4. Statistics Basics
 
 **Topics Covered:** Data Types & Patterns & Graphs, Central Tendency & Dispersion, Correlation & Normal Distribution, Central Limit Theorem & Confidence Intervals, Hypothesis Testing.
 
 This certificate is given to students who successfully completed Statistics Course in the Data Science Bootcamp after **30 hours** live in-class of intensive work. They also successfully completed **many challenging code hands-ons, 5 assignments**. They completed **50+ hours** of pre-class & post-class activities. During this course, students used many tools and methods such as: LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
 
 
-- [X] [__Data Visualization with Tableau__]
+  ### 5. Data Visualization with Tableau
 
 **Topics Covered:** Introduction to Tableau, Visual Analytics, Combining Tables & Data, Calculations, Dashboards
 
