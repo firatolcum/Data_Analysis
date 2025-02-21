@@ -1,6 +1,5 @@
 <h1><strong><span style="color: #77C8D5;">Week-4 (17 May 2022)</strong></span>
 
-![logo](ds_agenda_logo.png)
 
 <br>
 

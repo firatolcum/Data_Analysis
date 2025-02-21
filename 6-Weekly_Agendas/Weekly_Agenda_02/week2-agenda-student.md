@@ -1,6 +1,5 @@
 <h1><strong><span style="color: #77C8D5;">Week-2 (May 10, 2022)</strong></span>
 
-![logo](ds_agenda_logo.png)
 
 <br>
 

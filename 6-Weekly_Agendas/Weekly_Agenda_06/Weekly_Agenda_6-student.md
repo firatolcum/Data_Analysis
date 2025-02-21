@@ -1,7 +1,5 @@
 <h1><strong><span style="color: #77C8D5;">Week-6 (June 7th - 13th)</strong></span>
 
-![logo](ds_agenda_logo.png)
-
 <br>
 
 <h1><strong><span style="color: #3498DB;">Meeting Agenda</strong></h1></span>

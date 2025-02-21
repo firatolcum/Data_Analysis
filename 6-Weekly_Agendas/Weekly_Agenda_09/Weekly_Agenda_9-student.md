@@ -1,6 +1,5 @@
 <h1><strong><span style="color: #77C8D5;">Week-9 July 5th-12th)</strong></span>
 
-![logo](ds_agenda_logo.png)
 
 <br>
 
